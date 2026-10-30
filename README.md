@@ -18,11 +18,6 @@
 
 <br/>
 
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=gradient&customColorList=12,15,19,24,30&text=brutal%2D45&fontColor=fff&fontSize=80&fontAlignY=44&desc=Developer%20%F0%9F%92%BB%20%7C%20Creator%20%F0%9F%8E%A8%20%7C%20Contributor%20%F0%9F%A4%9D&descSize=20&descAlignY=64&animation=blender&stroke=7c3aed" alt="Hero Banner" />
-
-</div>
 
 <!-- ==================== STATUS BADGES ==================== --> 
 
