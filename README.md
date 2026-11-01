@@ -1,15 +1,4 @@
 
-## Repository files navigation
-[r100029] link "README" -> /diablomike20/_diablomike20_?tab=readme-ov-file current
-[r100030] button "Outline" collapsed
-[r100031] link "Email" -> mailto:diablomike20@proton.me
-[r100032] link "GitHub followers" -> /diablomike20?tab=followers
-[r100033] link "Profile Views" -> /diablomike20
-[r100034] link "Open to Work" -> /diablomike20
-[r100035] link "Typing SVG" -> https://git.io/typing-svg
-
----
-
 # 🎨 **Diablomike20**
 ### *The Architect of Digital Dreams*
 
@@ -19,7 +8,7 @@
 
 ## 🎭 Character Profile
 
-diablomike20@github:~$ whoami ╭──────────────────────────────────────────────────────────────────────────────────────────╮ │ | │ 🎭 CHARACTER : Diablomike20 | │ 🎨 ROLE : Full-Stack Developer × Digital Artist × Coffee Connoisseur | │ 📍 LOCATION : 🌍 Between lines of code and dreams | │ 📧 EMAIL : diablomike20@proton.me | │ 💼 STATUS : 🟡 Open to Chaos & Creation | │ 🎓 LEARNING : Like a caffeinated squirrel | │ ☕ FUEL : Espresso & Inspiration | │ 🎯 GOAL : Build legacies, not just repos | │ | │ 💬 MOTTO : "Code is poetry written by humans for machines" | │ 🎪 AVATAR : Debugging enthusiast with a heart of gold | │ | │ ╰──────────────────────────────────────────────────────────────────────────────────────────╯
+diablomike20@github:~$ whoami ╭──────────────────────────────────────────────────────────────────────────────────────────╮ │ | │ 🎭 CHARACTER : Diablomike20 | │ 🎨 ROLE : Full-Stack Developer × Digital Artist × Coffee Connoisseur | │ 📍 LOCATION : 🌍 Between lines of code and dreams | │ 📧 EMAIL:diablomike2010@gmail.com | │ 💼 STATUS : 🟡 Open to Chaos & Creation | │ 🎓 LEARNING : Like a caffeinated squirrel | │ ☕ FUEL : Burn Sourtwist | │ 🎯 GOAL : Build legacies, not just repos | │ | │ 💬 MOTTO : "Code is poetry written by humans for machines" | │ 🎪 AVATAR : Debugging enthusiast with a heart of gold | │ | │ ╰──────────────────────────────────────────────────────────────────────────────────────────╯
 
 ---
 
@@ -54,7 +43,7 @@ diablomike20@github:~$ whoami ╭───────────────�
 
 ┌─────────────────────────────────────────────────────────────────┐
 │  ☕ DIABLO - THE COFFEE PHILOSOPHER                            │
-│  "Without coffee, I'm just a regular human with a keyboard"    │
+│  "Without Caffeine, I'm just a regular human with a keyboard"    │
 │  Strength: ☕☕☕☕☕ | Weakness: ❌ Cold brew                 │
 └─────────────────────────────────────────────────────────────────┘
 
@@ -68,14 +57,14 @@ diablomike20@github:~$ whoami ╭───────────────�
 ---
 
 ### 🌐 Let's Connect
-📧 Email: diablomike20@proton.me
+📧 Email: diablomike2010@gmail.com
 🐙 GitHub: https://github.com/diablomike20
-📱 Twitter/X: @diablomike20
+📱 Twitter/X: xXx
 💼 LinkedIn: [Add your LinkedIn]
-✍️ Dev.to: https://dev.to/diablomike20
-📚 Hashnode: https://hashnode.com/@diablomike20
-🎮 Discord: [Add your Discord]
-🌐 Personal Website: https://diablomike20.com
+✍️ Dev.to: xXx
+📚 Hashnode: xXx
+🎮 Discord: [MikealaHUN]
+🌐 Personal Website: xXx
 
 ---
 
@@ -84,7 +73,7 @@ diablomike20@github:~$ whoami ╭───────────────�
 👍 Follow my profile
 📦 Fork my open source projects
 💬 Report issues and contribute
-🎁 Send coffee (or at least virtual appreciation)
+🎁 Send EnergyDrink (Holy Water or Aqua Vitae)
 
 ---
 
@@ -132,9 +121,4 @@ diablomike20@github:~$ whoami ╭───────────────�
 
 ---
 
-### 🔄 Development Lifecycle
-[Add your Mermaid diagram here showing your development process]
-
----
-
-*Made with love and lots of coffee by Diablomike20 👨‍💻*
+*Made with love and lots of Energy Drinks by Diablomike20 👨‍💻*
